@@ -1,3 +1,7 @@
+# This repository was merged with the api and is now archived
+
+You can find the new (old) code over on [vikunja/vikunja](https://kolaente.dev/vikunja/vikunja).
+
 # Vikunja desktop
 
 [![Build Status](https://drone.kolaente.de/api/badges/vikunja/desktop/status.svg)](https://drone.kolaente.de/vikunja/desktop)
